@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcpp_lang_net=self.webpackChunkcpp_lang_net||[]).push([[52535],{45641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"3. 2. 1. Launch - Cpp-Lang.net is online","permalink":"/CppLangNet/blog/welcome"}]}')}}]);

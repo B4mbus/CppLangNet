@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcpp_lang_net=self.webpackChunkcpp_lang_net||[]).push([[76727],{61726:e=>{e.exports=JSON.parse('{"permalink":"/CppLangNet/blog/tags/site-update","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcpp_lang_net=self.webpackChunkcpp_lang_net||[]).push([[39881],{8615:t=>{t.exports=JSON.parse('{"label":"site-introduction","permalink":"/CppLangNet/blog/tags/site-introduction","allTagsPath":"/CppLangNet/blog/tags","count":1}')}}]);
